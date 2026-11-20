@@ -1,0 +1,4 @@
+# Keep maintenance files out of the published site.
+exclude:
+  - CLAUDE.md
+  - tools
