@@ -46,7 +46,7 @@ row("<b>New York University, Tandon School of Engineering</b>", "Brooklyn, NY")
 row("Master of Science in Computer Engineering", "Expected May 2028")
 P("<b>Current Coursework:</b> Machine Learning, Computing Systems Architecture, Data Structures and Algorithms.")
 row("<b>Northern Kentucky University / Hubei Polytechnic University</b>", "Aug 2022 - May 2026")
-P("Bachelor of Electrical and Electronics Engineering Technology | 2+2 Joint Program | GPA: 3.52/4.0")
+P("Bachelor of Electrical and Electronics Engineering Technology | 2+2 Joint Program")
 P("Cum Laude; Dean's Scholarship (top 5%, 2024); Scholar's List (2025)")
 
 S("RESEARCH AND ROBOTICS PROJECTS")
