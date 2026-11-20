@@ -4,6 +4,12 @@ A single-page academic homepage, served by GitHub Pages from the `main` branch a
 https://youngwing-0314.github.io. Pushing to `main` publishes it (allow a minute or two;
 browsers cache pages for 10 minutes, so hard-refresh to check).
 
+## How Yue works
+
+- Yue is not a web developer. He describes changes in plain language, usually in Chinese. Reply in Chinese, casually and briefly. The site itself stays in English.
+- He wants changes live without extra steps: commit to `main` and push, unless he asks for a pull request. Tell him when it is pushed and remind him to hard-refresh.
+- After a visual change, send him a screenshot rather than describing it.
+
 ## Who it is for
 
 Professors and PhD students deciding whether to reply to a research-position inquiry.
